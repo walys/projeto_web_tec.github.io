@@ -101,9 +101,16 @@ html, body {
     background: url('../img/porto.png');
     height: 195px;
 }
+.panel-7
+{
+    background: url('../img/ext.jpg');
+    height: 195px;
+}
 
-
-
+.menu
+{
+    font-size: 18px !important;
+}
 
 /*===================== Rodapé===================================*/
 
@@ -143,4 +150,20 @@ footer{
     -ms-flex-align: center;
     -webkit-align-items: center;
     align-items: center;
+}
+.slide2
+{
+    display: none;
+}
+@media only screen and (max-width: 992px) {
+   .slide {
+        display: none;
+    }
+    .text-slide{
+        display: none;
+    }
+    .slide2
+    {
+        display: block;
+    }
 }
