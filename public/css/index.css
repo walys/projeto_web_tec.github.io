@@ -73,32 +73,32 @@ html, body {
 }
 .panel-1
 {
-    background: url('../_img/nip-modal.png');
+    background: url('../img/nip-modal.png');
     height: 195px;
 }
 .panel-2
 {
-    background: url('../_img/arvore.png');
+    background: url('../img/arvore.png');
     height: 195px;
 }
 .panel-3
 {
-    background: url('../_img/ged.png');
+    background: url('../img/ged.png');
     height: 195px;
 }
 .panel-4
 {
-    background: url('../_img/grutorax.png');
+    background: url('../img/grutorax.png');
     height: 195px;
 }
 .panel-5
 {
-    background: url('../_img/fabio.png');
+    background: url('../img/fabio.png');
     height: 195px;
 }
 .panel-6
 {
-    background: url('../_img/porto.png');
+    background: url('../img/porto.png');
     height: 195px;
 }
 
